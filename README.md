@@ -1,5 +1,4 @@
 ## DAEA: Enhancing Entity Alignment in Real-World Knowledge Graphs Through Multi-Source Domain Adaptation
-Through Multi-Source Domain Adaptation
 
 This is code and datasets for DAEA
 
