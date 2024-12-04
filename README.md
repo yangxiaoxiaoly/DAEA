@@ -76,3 +76,10 @@ bash run.sh
 
 Note that `interaction_model/Param.py` is the config file.
 
+### Acknowledgement
+
+We extend our appreciation to:
+BERT-INT (https://github.com/kosugi11037/bert-int), 
+real-world datasets https://github.com/EnsiyehRaoufi/Create_Input_Data_to_EA_Models, 
+transfer learning library https://github.com/jindongwang/transferlearning/tree/master. 
+
